@@ -1,0 +1,129 @@
+    body{
+      font-family: Raleway, Questrial,Roboto, helvetica, latest, sans-serif;  
+      color:black;
+    }
+    .about-p {
+      
+      font-family:roboto;
+    }
+    #container {
+      background-image: url("images/ideal.jpeg");
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      min-height: 500px;
+    }
+    div ul li a {
+      color:white;
+    }
+    div ul li a:hover{
+     border-bottom:2px solid #161211;
+    }
+    .img-about {
+      border:2px solid #ad2908;
+      position:relative;
+      bottom:200px;
+    }
+    .text-about{
+      
+      position:relative;
+      bottom:150px;
+    }
+    .container-bio {
+      position:relative;
+      bottom:400px;
+    }
+    .pitch {
+      line-height:30px; 
+    }
+    #about{
+      padding-top:50px;
+    height:650px;
+    color:black;
+    text-align:center;
+    font-weight: bold;
+    font-size:4.5rem;
+    background-color:#f4e9e6; 
+     position:relative;
+      bottom:50px;
+  }
+    .portfolio-btn{
+      border:2px solid #ad2908;
+      border-radius:10px;
+      color:white;
+      font-weight: bold;
+      background-color:#ad2908;
+      font-size:16px;
+    }
+    .h1 {
+      font-size:3.5rem;
+      font-weight:bold;
+      color:white;
+    }
+    .overlay {
+      background-color:rgba(0,0,0,0.9);
+      min-height: 600px;
+    }
+		.logo {
+      color:#c4b4b0;
+      font-weight: bold;
+      font-size:2rem;
+      
+      border-bottom:5px solid black;
+    }
+    #contact_us{
+      background-color: #2D2D2D;
+      padding-left: 30px;
+    }
+    #contact_us2{
+      padding-left:50px;
+    }
+    #contact_us2 a{
+      font-size: 30px;
+      padding-left: 10px;
+    }
+    .contact_h5{
+      font-size: :30px;
+    }
+
+    .form{
+      background-color:#2D2D2D; 
+
+    #skills{
+        background-color:#CA8400; 
+        position:relative;
+        bottom:1000px;
+        align:center;
+    }
+    .hire{
+      background-color:rgba(0,0,0,0.1);
+      color:white;
+      font-weight: bold;
+      border-radius:10px;
+      border:2px solid white ;
+    }
+    .search {
+      border:2px solid #893305;
+    }
+    .portfolio-btn:hover{
+      
+      color:black;
+    }
+    .hire:hover {
+      background-color:black;
+      color:#ad2908;
+    }
+    .icon {
+      color:#814829;
+    }
+    nav div ul li a:hover{
+       border-bottom:3px solid #814829;
+    }
+    nav div ul li a{
+      font-weight:bold;
+      color:white;
+    }
+    .top {
+      position:relative;
+      top:100px;
+    }
